@@ -36,12 +36,6 @@ src/
 
 Este projeto reforça a importância do papel social da tecnologia. Ao integrar interatividade, informação e engajamento cívico, proporcionamos uma ferramenta escalável e replicável para outras cidades.
 
-## 🌐 Deploy (opcional)
-Caso deseje colocar a plataforma online, recomenda-se o uso de:
-- [Vercel](https://vercel.com/)
-- [Netlify](https://netlify.com/)
-- [GitHub Pages](https://pages.github.com/)
-
 ---
 
 ### 📍 ODS 11 - Cidades e Comunidades Sustentáveis
